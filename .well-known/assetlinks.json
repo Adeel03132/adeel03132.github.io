@@ -1,1 +1,13 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.multilingua.translatorkids","sha256_cert_fingerprints":["88:B4:84:57:4B:E5:7A:55:D1:91:76:A0:B7:15:84:5A:D0:78:0C:E6:DE:83:F0:C8:8F:A3:6F:08:53:65:BC:A8"]}}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.multilingua.translatorkids",
+      "sha256_cert_fingerprints": [
+        "14:1D:42:63:FD:01:9D:E0:CF:34:C4:8E:FF:66:7E:BF:A8:47:17:99:08:EF:69:3C:E8:89:12:E1:AB:49:22:95",
+        "88:B4:84:57:4B:E5:7A:55:D1:91:76:A0:B7:15:84:5A:D0:78:0C:E6:DE:83:F0:C8:8F:A3:6F:08:53:65:BC:A8"
+      ]
+    }
+  }
+]
